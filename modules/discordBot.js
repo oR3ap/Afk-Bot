@@ -3,8 +3,8 @@ const { log } = require('./logger');
 
 let discordClient;
 let uptimeStart = Date.now();
-let channelId = "1365729760013189246"; // <-- PUT YOUR CHANNEL ID HERE
-let botToken = "MTAwNTExODUzMjc4ODQ0MTI0OA.GSPvV3.kLhVmWr6PA3x4QcE9laom83pCFVbplfzZjgU9k"; // <-- PUT YOUR BOT TOKEN HERE
+let channelId = ""; // <-- PUT YOUR CHANNEL ID HERE
+let botToken = ""; // <-- PUT YOUR BOT TOKEN HERE
 
 function initDiscordBot(bot) {
   if (!botToken) {
