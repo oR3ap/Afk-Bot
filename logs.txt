@@ -1,0 +1,174 @@
+[2025-04-26T16:29:41.165Z] [BOT] Spawned on server ✅
+[2025-04-26T16:29:41.176Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T16:29:51.201Z] [POS] X: 66.50 Y: 67.00 Z: -28.50
+[2025-04-26T16:30:01.192Z] [POS] X: 66.50 Y: 67.00 Z: -28.50
+[2025-04-26T16:30:11.195Z] [POS] X: 66.50 Y: 67.00 Z: -28.50
+[2025-04-26T16:43:49.159Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T16:43:49.160Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:23:54.732Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:23:54.734Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:23:58.854Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:23:59.733Z] [BOT] Spawned on server ✅
+[2025-04-26T17:23:59.744Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:24:05.213Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:24:05.214Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:24:05.418Z] [KICKED] {
+  "type": "compound",
+  "value": {
+    "translate": {
+      "type": "string",
+      "value": "multiplayer.disconnect.duplicate_login"
+    }
+  }
+}
+[2025-04-26T17:24:05.420Z] [BOT] Disconnected from server
+[2025-04-26T17:24:06.356Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:24:06.462Z] [BOT] Spawned on server ✅
+[2025-04-26T17:24:06.463Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:24:15.658Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:24:15.659Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:24:15.879Z] [KICKED] {
+  "type": "compound",
+  "value": {
+    "translate": {
+      "type": "string",
+      "value": "multiplayer.disconnect.duplicate_login"
+    }
+  }
+}
+[2025-04-26T17:24:15.880Z] [BOT] Disconnected from server
+[2025-04-26T17:24:16.846Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:24:16.861Z] [BOT] Spawned on server ✅
+[2025-04-26T17:24:16.862Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:24:26.131Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:24:26.133Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:24:26.501Z] [KICKED] {
+  "type": "compound",
+  "value": {
+    "translate": {
+      "type": "string",
+      "value": "multiplayer.disconnect.duplicate_login"
+    }
+  }
+}
+[2025-04-26T17:24:26.503Z] [BOT] Disconnected from server
+[2025-04-26T17:24:27.394Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:24:27.426Z] [BOT] Spawned on server ✅
+[2025-04-26T17:24:27.428Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:24:36.569Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:24:36.569Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:24:36.800Z] [KICKED] {
+  "type": "compound",
+  "value": {
+    "translate": {
+      "type": "string",
+      "value": "multiplayer.disconnect.duplicate_login"
+    }
+  }
+}
+[2025-04-26T17:24:36.801Z] [BOT] Disconnected from server
+[2025-04-26T17:24:37.867Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:24:37.887Z] [BOT] Spawned on server ✅
+[2025-04-26T17:24:37.888Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:24:47.013Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:24:47.014Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:24:47.230Z] [KICKED] {
+  "type": "compound",
+  "value": {
+    "translate": {
+      "type": "string",
+      "value": "multiplayer.disconnect.duplicate_login"
+    }
+  }
+}
+[2025-04-26T17:24:47.232Z] [BOT] Disconnected from server
+[2025-04-26T17:24:48.040Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:24:48.079Z] [BOT] Spawned on server ✅
+[2025-04-26T17:24:48.080Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:25:26.340Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:25:26.342Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:25:27.943Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:25:27.944Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:25:27.963Z] [BOT] Spawned on server ✅
+[2025-04-26T17:25:27.964Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:25:31.253Z] [KICKED] [object Object]
+[2025-04-26T17:25:31.258Z] [BOT] Disconnected from server
+[2025-04-26T17:25:36.878Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:25:36.881Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:25:36.990Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:25:36.994Z] [BOT] Disconnected from server
+[2025-04-26T17:31:07.688Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:31:07.690Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:31:09.853Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:31:09.859Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:31:09.935Z] [BOT] Spawned on server ✅
+[2025-04-26T17:31:09.936Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:31:14.755Z] [KICKED] [object Object]
+[2025-04-26T17:31:14.756Z] [BOT] Disconnected from server
+[2025-04-26T17:31:18.166Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:31:18.166Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:31:18.295Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:31:18.296Z] [BOT] Disconnected from server
+[2025-04-26T17:32:24.295Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:32:24.296Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:32:25.819Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:32:25.821Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:32:25.828Z] [BOT] Spawned on server ✅
+[2025-04-26T17:32:25.829Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:32:30.041Z] [KICKED] [object Object]
+[2025-04-26T17:32:30.043Z] [BOT] Disconnected from server
+[2025-04-26T17:32:34.754Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:32:34.754Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:32:34.881Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:32:34.883Z] [BOT] Disconnected from server
+[2025-04-26T17:32:45.199Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:32:45.200Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:32:45.295Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:32:45.297Z] [BOT] Disconnected from server
+[2025-04-26T17:32:55.707Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:32:55.708Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:32:55.845Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:32:55.846Z] [BOT] Disconnected from server
+[2025-04-26T17:33:06.162Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:33:06.163Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:33:06.296Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:33:06.297Z] [BOT] Disconnected from server
+[2025-04-26T17:33:16.594Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:33:16.594Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:33:16.795Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:33:16.796Z] [BOT] Disconnected from server
+[2025-04-26T17:42:22.483Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:42:22.484Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:42:23.705Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:42:23.707Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:42:23.745Z] [BOT] Spawned on server ✅
+[2025-04-26T17:42:23.745Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:42:28.239Z] [KICKED] [object Object]
+[2025-04-26T17:42:28.241Z] [BOT] Disconnected from server
+[2025-04-26T17:44:28.838Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:44:28.840Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:44:30.303Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:44:30.306Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:44:30.318Z] [BOT] Spawned on server ✅
+[2025-04-26T17:44:30.319Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:44:34.647Z] [KICKED] [object Object]
+[2025-04-26T17:44:34.649Z] [BOT] Disconnected from server
+[2025-04-26T17:44:39.285Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:44:39.286Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:44:42.211Z] [KICKED] "You are banned from this server for 6 days 23 hours 59 minutes. Reason: Timer"
+[2025-04-26T17:44:42.213Z] [BOT] Disconnected from server
+[2025-04-26T17:46:25.004Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-26T17:46:25.005Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-26T17:46:26.245Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:46:26.247Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-26T17:46:26.282Z] [BOT] Spawned on server ✅
+[2025-04-26T17:46:26.283Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-26T17:46:30.323Z] [KICKED] [object Object]
+[2025-04-26T17:46:30.325Z] [BOT] Disconnected from server
+[2025-04-27T08:10:06.816Z] [CRASH] Unhandled rejection: Error [TokenInvalid]: An invalid token was provided.
+[2025-04-27T08:10:07.082Z] [BOT] Reconnecting in 10 seconds...
+[2025-04-27T08:10:08.076Z] [DISCORD] Channel ID invalid or not cached yet.
+[2025-04-27T08:10:08.089Z] [BOT] Spawned on server ✅
+[2025-04-27T08:10:08.093Z] [ANTI-AFK] Anti-AFK module started ✅
+[2025-04-27T08:10:12.239Z] [KICKED] [object Object]
+[2025-04-27T08:10:12.241Z] [BOT] Disconnected from server

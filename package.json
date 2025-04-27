@@ -1,0 +1,26 @@
+{
+  "name": "advanced-minecraft-bot",
+  "version": "1.0.0",
+  "description": "A modular, reconnecting, anti-AFK Minecraft bot using Mineflayer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mineflayer",
+    "minecraft",
+    "bot",
+    "afk",
+    "reconnect",
+    "pathfinder",
+    "modular"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.19.1",
+    "mineflayer": "latest",
+    "mineflayer-pathfinder": "latest",
+    "systeminformation": "^5.25.11"
+  }
+}
