@@ -16,9 +16,9 @@ function createMinecraftBot() {
   global.isReconnecting = false;
 
   const bot = mineflayer.createBot({
-    host: 'sugunan.play.hosting',
+    host: '',
     port: 25565,
-    username: 'abdul9',
+    username: 'bOt',
     auth: 'offline',
     version: '1.21.4'
   });
