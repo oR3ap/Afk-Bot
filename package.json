@@ -1,5 +1,5 @@
 {
-  "name": "advanced-minecraft-bot",
+  "name": "minecraft-bot",
   "version": "1.0.0",
   "description": "A modular, reconnecting, anti-AFK Minecraft bot using Mineflayer.",
   "main": "index.js",
